@@ -1,0 +1,10 @@
+checkers
+[
+code:1111
+ignore:checkers;
+]
+grim
+[
+code:1234
+ignore:0
+]

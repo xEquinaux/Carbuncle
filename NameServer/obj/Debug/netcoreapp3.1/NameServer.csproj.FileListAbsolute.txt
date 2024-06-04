@@ -1,0 +1,15 @@
+C:\Users\Rinsol\source\repos\NameServer\bin\Debug\netcoreapp3.1\NameServer.exe
+C:\Users\Rinsol\source\repos\NameServer\bin\Debug\netcoreapp3.1\NameServer.deps.json
+C:\Users\Rinsol\source\repos\NameServer\bin\Debug\netcoreapp3.1\NameServer.runtimeconfig.json
+C:\Users\Rinsol\source\repos\NameServer\bin\Debug\netcoreapp3.1\NameServer.runtimeconfig.dev.json
+C:\Users\Rinsol\source\repos\NameServer\bin\Debug\netcoreapp3.1\NameServer.dll
+C:\Users\Rinsol\source\repos\NameServer\bin\Debug\netcoreapp3.1\NameServer.pdb
+C:\Users\Rinsol\source\repos\NameServer\bin\Debug\netcoreapp3.1\dotnet.dll
+C:\Users\Rinsol\source\repos\NameServer\obj\Debug\netcoreapp3.1\NameServer.csprojAssemblyReference.cache
+C:\Users\Rinsol\source\repos\NameServer\obj\Debug\netcoreapp3.1\NameServer.AssemblyInfoInputs.cache
+C:\Users\Rinsol\source\repos\NameServer\obj\Debug\netcoreapp3.1\NameServer.AssemblyInfo.cs
+C:\Users\Rinsol\source\repos\NameServer\obj\Debug\netcoreapp3.1\NameServer.csproj.CoreCompileInputs.cache
+C:\Users\Rinsol\source\repos\NameServer\obj\Debug\netcoreapp3.1\NameServer.csproj.CopyComplete
+C:\Users\Rinsol\source\repos\NameServer\obj\Debug\netcoreapp3.1\NameServer.dll
+C:\Users\Rinsol\source\repos\NameServer\obj\Debug\netcoreapp3.1\NameServer.pdb
+C:\Users\Rinsol\source\repos\NameServer\obj\Debug\netcoreapp3.1\NameServer.genruntimeconfig.cache
