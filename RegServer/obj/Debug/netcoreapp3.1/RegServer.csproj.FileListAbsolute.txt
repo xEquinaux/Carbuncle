@@ -1,0 +1,13 @@
+C:\Users\Rinsol\source\repos\RegServer\bin\Debug\netcoreapp3.1\RegServer.exe
+C:\Users\Rinsol\source\repos\RegServer\bin\Debug\netcoreapp3.1\RegServer.deps.json
+C:\Users\Rinsol\source\repos\RegServer\bin\Debug\netcoreapp3.1\RegServer.runtimeconfig.json
+C:\Users\Rinsol\source\repos\RegServer\bin\Debug\netcoreapp3.1\RegServer.runtimeconfig.dev.json
+C:\Users\Rinsol\source\repos\RegServer\bin\Debug\netcoreapp3.1\RegServer.dll
+C:\Users\Rinsol\source\repos\RegServer\bin\Debug\netcoreapp3.1\RegServer.pdb
+C:\Users\Rinsol\source\repos\RegServer\obj\Debug\netcoreapp3.1\RegServer.csprojAssemblyReference.cache
+C:\Users\Rinsol\source\repos\RegServer\obj\Debug\netcoreapp3.1\RegServer.AssemblyInfoInputs.cache
+C:\Users\Rinsol\source\repos\RegServer\obj\Debug\netcoreapp3.1\RegServer.AssemblyInfo.cs
+C:\Users\Rinsol\source\repos\RegServer\obj\Debug\netcoreapp3.1\RegServer.csproj.CoreCompileInputs.cache
+C:\Users\Rinsol\source\repos\RegServer\obj\Debug\netcoreapp3.1\RegServer.dll
+C:\Users\Rinsol\source\repos\RegServer\obj\Debug\netcoreapp3.1\RegServer.pdb
+C:\Users\Rinsol\source\repos\RegServer\obj\Debug\netcoreapp3.1\RegServer.genruntimeconfig.cache
