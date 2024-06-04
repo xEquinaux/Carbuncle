@@ -1,0 +1,19 @@
+C:\Users\Rinsol\source\repos\Carbuncle v2\bin\Release\netcoreapp3.1\Carbuncle v2.exe
+C:\Users\Rinsol\source\repos\Carbuncle v2\bin\Release\netcoreapp3.1\Carbuncle v2.deps.json
+C:\Users\Rinsol\source\repos\Carbuncle v2\bin\Release\netcoreapp3.1\Carbuncle v2.runtimeconfig.json
+C:\Users\Rinsol\source\repos\Carbuncle v2\bin\Release\netcoreapp3.1\Carbuncle v2.runtimeconfig.dev.json
+C:\Users\Rinsol\source\repos\Carbuncle v2\bin\Release\netcoreapp3.1\Carbuncle v2.dll
+C:\Users\Rinsol\source\repos\Carbuncle v2\bin\Release\netcoreapp3.1\Carbuncle v2.pdb
+C:\Users\Rinsol\source\repos\Carbuncle v2\obj\Release\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Rinsol\source\repos\Carbuncle v2\obj\Release\netcoreapp3.1\App.g.cs
+C:\Users\Rinsol\source\repos\Carbuncle v2\obj\Release\netcoreapp3.1\Carbuncle v2_MarkupCompile.cache
+C:\Users\Rinsol\source\repos\Carbuncle v2\obj\Release\netcoreapp3.1\Carbuncle v2_MarkupCompile.lref
+C:\Users\Rinsol\source\repos\Carbuncle v2\obj\Release\netcoreapp3.1\MainWindow.baml
+C:\Users\Rinsol\source\repos\Carbuncle v2\obj\Release\netcoreapp3.1\Carbuncle v2.g.resources
+C:\Users\Rinsol\source\repos\Carbuncle v2\obj\Release\netcoreapp3.1\Carbuncle v2.AssemblyInfoInputs.cache
+C:\Users\Rinsol\source\repos\Carbuncle v2\obj\Release\netcoreapp3.1\Carbuncle v2.AssemblyInfo.cs
+C:\Users\Rinsol\source\repos\Carbuncle v2\obj\Release\netcoreapp3.1\Carbuncle v2.csproj.CoreCompileInputs.cache
+C:\Users\Rinsol\source\repos\Carbuncle v2\obj\Release\netcoreapp3.1\Carbuncle v2.dll
+C:\Users\Rinsol\source\repos\Carbuncle v2\obj\Release\netcoreapp3.1\Carbuncle v2.pdb
+C:\Users\Rinsol\source\repos\Carbuncle v2\obj\Release\netcoreapp3.1\Carbuncle v2.genruntimeconfig.cache
+C:\Users\Rinsol\source\repos\Carbuncle v2\obj\Release\netcoreapp3.1\Carbuncle v2.csprojAssemblyReference.cache

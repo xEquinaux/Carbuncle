@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Rinsol\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Rinsol\\.nuget\\packages"
+    ]
+  }
+}
