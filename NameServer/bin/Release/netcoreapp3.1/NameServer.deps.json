@@ -8,17 +8,17 @@
     ".NETCoreApp,Version=v3.1": {
       "NameServer/1.0.0": {
         "dependencies": {
-          "dotnet": "1.0.1.0"
+          "BasiqDatabase": "1.2.3.10"
         },
         "runtime": {
           "NameServer.dll": {}
         }
       },
-      "dotnet/1.0.1.0": {
+      "BasiqDatabase/1.2.3.10": {
         "runtime": {
-          "dotnet.dll": {
-            "assemblyVersion": "1.0.1.0",
-            "fileVersion": "1.1.0.0"
+          "BasiqDatabase.dll": {
+            "assemblyVersion": "1.2.3.10",
+            "fileVersion": "1.2.1.10"
           }
         }
       }
@@ -30,7 +30,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "dotnet/1.0.1.0": {
+    "BasiqDatabase/1.2.3.10": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
