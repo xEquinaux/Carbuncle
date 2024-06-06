@@ -6,8 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="dotnet">
-      <HintPath>..\dependencies\dotnet\dotnet.dll</HintPath>
+    <Reference Include="BasiqDatabase">
+      <HintPath>BasiqDatabase.dll</HintPath>
     </Reference>
   </ItemGroup>
 

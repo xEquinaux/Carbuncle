@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Carbuncle v2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e2a9c8646b22ea9b21dfdaad6682c91ff08045b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Carbuncle v2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Carbuncle v2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

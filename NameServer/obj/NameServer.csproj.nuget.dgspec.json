@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nolan\\Downloads\\Carbuncle_v2b.rc5\\NameServer\\NameServer.csproj": {}
+    "C:\\Users\\nolan\\source\\repos\\Carbuncle\\NameServer\\NameServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nolan\\Downloads\\Carbuncle_v2b.rc5\\NameServer\\NameServer.csproj": {
+    "C:\\Users\\nolan\\source\\repos\\Carbuncle\\NameServer\\NameServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nolan\\Downloads\\Carbuncle_v2b.rc5\\NameServer\\NameServer.csproj",
+        "projectUniqueName": "C:\\Users\\nolan\\source\\repos\\Carbuncle\\NameServer\\NameServer.csproj",
         "projectName": "NameServer",
-        "projectPath": "C:\\Users\\nolan\\Downloads\\Carbuncle_v2b.rc5\\NameServer\\NameServer.csproj",
+        "projectPath": "C:\\Users\\nolan\\source\\repos\\Carbuncle\\NameServer\\NameServer.csproj",
         "packagesPath": "C:\\Users\\nolan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nolan\\Downloads\\Carbuncle_v2b.rc5\\NameServer\\obj\\",
+        "outputPath": "C:\\Users\\nolan\\source\\repos\\Carbuncle\\NameServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nolan\\AppData\\Roaming\\NuGet\\NuGet.Config",

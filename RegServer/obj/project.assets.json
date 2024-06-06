@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nolan\\Downloads\\Carbuncle_v2b.rc5\\RegServer\\RegServer.csproj",
+      "projectUniqueName": "C:\\Users\\nolan\\Source\\Repos\\Carbuncle\\RegServer\\RegServer.csproj",
       "projectName": "RegServer",
-      "projectPath": "C:\\Users\\nolan\\Downloads\\Carbuncle_v2b.rc5\\RegServer\\RegServer.csproj",
+      "projectPath": "C:\\Users\\nolan\\Source\\Repos\\Carbuncle\\RegServer\\RegServer.csproj",
       "packagesPath": "C:\\Users\\nolan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nolan\\Downloads\\Carbuncle_v2b.rc5\\RegServer\\obj\\",
+      "outputPath": "C:\\Users\\nolan\\Source\\Repos\\Carbuncle\\RegServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nolan\\AppData\\Roaming\\NuGet\\NuGet.Config",
